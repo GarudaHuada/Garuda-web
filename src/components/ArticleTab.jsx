@@ -10,8 +10,8 @@ const ArticleTab = ({ data }) => {
         <div className="space-y-4">
           {data.image.map(({ id, path, description }) => {
             return (
-              <div key={id} className="relative">
-                <img src={path} alt={path} />
+              <div key={id} className="relative max-w-3xl">
+                <img src={path} alt={path} width={700} height={600} />
                 {description !== "" && (
                   <div className="absolute bottom-0 left-0 bg-gray-800 bg-opacity-60 text-white text-sm p-2">
                     {description}

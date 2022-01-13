@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <Layout>
       <main className="text-gray-900">
-        <div className="bg-[url('/new2.png')] h-[700px] bg-cover bg-top"></div>
+        <img src="/hero.jpg" alt="" />
         <div className="container mx-auto px-4 py-10">
           <News />
           <Activities />
