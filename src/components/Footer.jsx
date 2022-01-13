@@ -29,7 +29,7 @@ const Footer = () => {
                     target="_blank"
                     className="flex items-center gap-4"
                   >
-                    <img src={import.meta.env.BASE_URL + icon} alt="" />
+                    <img src={icon} alt="" />
                     <span>{text}</span>
                   </a>
                 </li>

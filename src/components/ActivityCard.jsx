@@ -7,7 +7,7 @@ const ActivityCard = ({ data }) => {
       className="relative bg-gray-200 shadow-lg overflow-hidden max-w-[320px] shrink-0"
     >
       <img
-        src={import.meta.env.BASE_URL + data.thumbnail}
+        src={data.thumbnail}
         alt=""
         className="block object-cover"
       />

@@ -39,7 +39,7 @@ const NewsModal = forwardRef(({ setIsOpen, data }, ref) => {
             {data.thumbnail && (
               <div className="max-w-xl mx-auto">
                 <img
-                  src={import.meta.env.BASE_URL + data.thumbnail}
+                  src={data.thumbnail}
                   alt="thumbnail"
                 />
               </div>

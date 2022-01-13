@@ -5,7 +5,7 @@ import Home from "./routes/Home";
 
 function App() {
   return (
-    <BrowserRouter basename={import.meta.env.BASE_URL}>
+    <BrowserRouter >
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />

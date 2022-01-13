@@ -27,7 +27,7 @@ const New = ({ data }) => {
     >
       <div className="bg-purple-300 grow-0 shrink-0 basis-48">
         <img
-          src={import.meta.env.BASE_URL + data.thumbnail}
+          src={data.thumbnail}
           alt=""
           className="object-cover object-center w-52 h-52"
         />

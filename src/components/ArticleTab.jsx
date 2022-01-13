@@ -11,7 +11,7 @@ const ArticleTab = ({ data }) => {
           {data.image.map(({ id, path, description }) => {
             return (
               <div key={id} className="relative">
-                <img src={import.meta.env.BASE_URL + path} alt={path} />
+                <img src={path} alt={path} />
                 {description !== "" && (
                   <div className="absolute bottom-0 left-0 bg-gray-800 bg-opacity-60 text-white text-sm p-2">
                     {description}
