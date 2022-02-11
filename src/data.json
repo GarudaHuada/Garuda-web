@@ -123,13 +123,13 @@
     {
       "id": "a43099b1-c766-4de6-b0c0-0f8069dfe931",
       "title": "GPS TIME Ep.3",
-      "thumbnail": "/exam-prep.jpg",
+      "thumbnail": "/garuda3.png",
       "date": "2021-12-03"
     },
     {
       "id": "6a8477cc-88c5-4440-b64b-581248d10ce5",
       "title": "GPS TIME Ep.2",
-      "thumbnail": "/briefing.jpg",
+      "thumbnail": "/garuda2.png",
       "date": "2021-11-05"
     },
     {
@@ -137,6 +137,12 @@
       "title": "G-Talk Huada Student'S Life",
       "thumbnail": "/gtalk.png",
       "date": "2021-10-23"
+    },
+    {
+      "id": "bdbc3935-71f6-47a5-86b6-eaba56e1f7db",
+      "title": "GPS TIME Ep.1",
+      "thumbnail": "/garuda1.png",
+      "date": "2021-10-08"
     },
     {
       "id": "3a075862-f653-4b2c-aa6f-210ab65a3bd5",
@@ -187,7 +193,7 @@
       "image": [
         {
           "id": "6dbda89d-fdde-4462-914b-76cb3782c76b",
-          "path": "/chart.png",
+          "path": "/Struktur garuda.png",
           "description": "Garuda Organisation 2021/2022"
         }
       ],
