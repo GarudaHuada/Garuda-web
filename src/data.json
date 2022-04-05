@@ -179,6 +179,18 @@
   ],
   "activities": [
     {
+      "id": "3a056f81-2b0c-4eda-a956-a9a5f4ac4297",
+      "title": "GPS TIME Ep.5",
+      "thumbnail": "/garuda5.png",
+      "date": "2022-05-02"
+    },
+    {
+      "id": "480b56d2-eba8-4f68-951a-1f0b7a0ef5cd",
+      "title": "GPS TIME Ep.4",
+      "thumbnail": "/garuda4.png",
+      "date": "2022-03-04"
+    },
+    {
       "id": "52e511c1-2bf1-47a1-a7d7-42db1a8ebd52",
       "title": "Garuda Got Talent",
       "thumbnail": "/garuda.jpg",
